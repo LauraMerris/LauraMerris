@@ -4,7 +4,7 @@
 - :revolving_hearts: I'm passionate about independent learning and how it can empower people
 - :page_facing_up: Check out what I'm building in public [on my blog](https://lauramerris.github.io)
 - :bird: Let's chat [on Twitter](https://twitter.com/lauramerris)
-
+\\
 
 ## Toolkit
 
@@ -14,7 +14,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
+\\
+\\
 
 ## Current Project
 
