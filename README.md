@@ -1,9 +1,9 @@
 # :wave: Hi, I'm Laura Merris
 
 :seedling: I make things in javascript  
-:wrench: I’m currently building a mobile app using React Native and Firebase  
+:wrench: Currently building a mobile app using React Native and Firebase  
 :revolving_hearts: I'm passionate about independent learning and how it can empower people  
-:page_facing_up: Check out what I'm building in public [on my blog](https://lauramerris.github.io)  
+:page_facing_up: Check out what I'm #BuildingInPublic [on my blog](https://lauramerris.github.io)  
 :bird: Let's chat [on Twitter](https://twitter.com/lauramerris)  
 
 ## My Toolkit
