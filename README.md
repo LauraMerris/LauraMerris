@@ -16,8 +16,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ## Where to Find Me
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lauramerris)
-[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://lauramerris.github.io/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lauramerris)
+[![Rss](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](https://lauramerris.github.io/)
 <!-- [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://lauramerris.hashnode.dev/) -->
 
 ## Currently Working On
