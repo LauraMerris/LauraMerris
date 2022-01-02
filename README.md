@@ -1,4 +1,4 @@
-# :wave: Hi, I'm Laura Merris
+# Hi, I'm Laura Merris
 
 :seedling: I make things in javascript  
 :wrench: Currently building a mobile app using React Native and Firebase  
