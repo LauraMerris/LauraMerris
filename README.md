@@ -1,11 +1,12 @@
 # :wave: Hi, I'm Laura Merris
+
 :seedling: I make things in javascript  
 :wrench: I’m currently building a mobile app using React Native and Firebase  
 :revolving_hearts: I'm passionate about independent learning and how it can empower people  
 :page_facing_up: Check out what I'm building in public [on my blog](https://lauramerris.github.io)  
 :bird: Let's chat [on Twitter](https://twitter.com/lauramerris)  
 
-## Toolkit
+## My Toolkit
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,7 +20,7 @@
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://lauramerris.github.io/)
 <!-- [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://lauramerris.hashnode.dev/) -->
 
-## Working On
+## Currently Working On
 ### Complete in Box
  
 A mobile app to help video game collectors keep track of their physical games.
