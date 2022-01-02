@@ -5,6 +5,7 @@
 - :page_facing_up: Check out what I'm building in public [on my blog](https://lauramerris.github.io)
 - :bird: Let's chat [on Twitter](https://twitter.com/lauramerris)
 
+
 ## Toolkit
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +16,9 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 
-<!---
-LauraMerris/LauraMerris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Current Project
+
+<img src="https://user-images.githubusercontent.com/7448403/147875631-507b1d8c-8a4e-47df-8adb-fc5434905089.jpg" width="400"/><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lauramerris&repo=cib&theme=vue)](https://github.com/lauramerris/cib)
+
+
