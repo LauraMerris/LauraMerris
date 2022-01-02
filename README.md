@@ -5,7 +5,8 @@
 - :page_facing_up: Check out what I'm building in public [on my blog](https://lauramerris.github.io)
 - :bird: Let's chat [on Twitter](https://twitter.com/lauramerris)
 \\
-
+\\
+\\
 ## Toolkit
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
