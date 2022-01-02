@@ -14,14 +14,19 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+## Where to Find Me
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lauramerris)
+[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://lauramerris.github.io/)
+<!-- [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://lauramerris.hashnode.dev/) -->
 
-## Current Project
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+## Working On
+### Complete in Box
+ 
 A mobile app to help video game collectors keep track of their physical games.
 
 👉 [More info on the app homepage](https://lauramerris.github.io/cib/)  
 👉 [View the code](https://github.com/LauraMerris/cib)
 
 <img src="https://user-images.githubusercontent.com/7448403/147875631-507b1d8c-8a4e-47df-8adb-fc5434905089.jpg" width="400"/><br>
-
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
