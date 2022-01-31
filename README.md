@@ -1,6 +1,6 @@
 # Hi, I'm Laura Merris
 
-:seedling: I make things in javascript  
+:seedling: I make things with JavaScript  
 :wrench: Currently building a mobile app using React Native and Firebase  
 :revolving_hearts: I'm passionate about independent learning and how it can empower people  
 :page_facing_up: Check out what I'm #BuildingInPublic [on my blog](https://lauramerris.github.io)  
