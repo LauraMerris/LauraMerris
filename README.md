@@ -20,13 +20,24 @@
 [![Rss](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](https://lauramerris.github.io/)
 <!-- [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://lauramerris.hashnode.dev/) -->
 
-## Currently Working On
+### FinDash
+A React component to display the latest stock values of the Dow Jones Index.
+
+- Created in React
+- [Polygon.io](https://polygon.io) Stock market data API (free version)
+- [Nivo](https://nivo.rocks) Free dataviz components for React
+- [Luxon](https://github.com/moment/luxon/) A modern wrapper for javascript dates and times 
+<!-- end list -->
+👉 [FinDash working demo](https://lauramerris.github.io/findash)<br>
+👉 [View code for FinDash](https://github.com/LauraMerris/findash)
+
 ### Complete in Box
- 
 A mobile app to help video game collectors keep track of their physical games.
 
-👉 [Follow my building journey](https://lauramerris.github.io/)  
-👉 [View the code](https://github.com/LauraMerris/cib)
+- Created in React Native
+- [IGDB](https://m.igdb.com/api) Game information API (free version)
+<!-- end list -->
+👉 [View code for Complete in Box](https://github.com/LauraMerris/cib)
 
 <img src="https://user-images.githubusercontent.com/7448403/147875631-507b1d8c-8a4e-47df-8adb-fc5434905089.jpg" width="400"/><br>
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
