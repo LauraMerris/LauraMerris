@@ -20,6 +20,7 @@
 [![Rss](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](https://lauramerris.github.io/)
 <!-- [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://lauramerris.hashnode.dev/) -->
 
+## Current projects
 ### FinDash
 A React component to display the latest stock values of the Dow Jones Index.
 
